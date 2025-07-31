@@ -1,4 +1,4 @@
-# Hey, I'm **LEKSHMI PRIYA JS** 👩‍💻
+# Hey, I'm **LEKSHMI PRIYA J S** 👩‍💻
 
 Web Developer | Tech Enthusiast | Problem Solver  
 🚀 Turning ideas into scalable, user-centric products that deliver real-world value.
