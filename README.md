@@ -1,78 +1,83 @@
-# Hey there 👋 I’m **LEKSHMI PRIYA JS**
-
-💻 Developer | Systems Thinker | Building products that feel good and function better  
-🎯 I’m passionate about using tech to **solve real problems**, not just build things.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Hey+there+%F0%9F%91%8B+I'm+Lekshmi+Priya+JS;CS+Student+%7C+Developer+%7C+Problem+Solver;Crafting+clean+solutions+with+purpose" alt="Typing SVG" />
+</p>
 
 ---
 
 ## 🙋‍♀️ About Me
 
-- 👩‍🎓 Final-year CS student focused on full-stack development and product-driven logic  
-- 🔄 I love turning ideas into interactive, scalable experiences  
-- 💡 From safety wearables to smart item-swapping platforms, I enjoy building things that matter  
-- 🌱 Currently deep-diving into backend systems, data flow, and production-grade codebases  
-- ✨ I code with users in mind and simplicity as a rule  
+🎓 Final-year CS student driven by logic, creativity, and user-centered development  
+💻 I enjoy building **real-world solutions**, not just writing code  
+🌱 Currently exploring full-stack workflows and AI-assisted development  
+🔄 Always learning, iterating, and pushing limits with every new build
 
 ---
 
-## 🛠️ Tech I Work With
+## ⚙️ Tech Stack
 
-**Frontend**: React.js · HTML · CSS · Tailwind · JavaScript  
-**Backend & Logic**: Node.js (learning) · SQL · Firebase  
-**AI / Tools**: Python · OpenCV · PyTorch (ResNet50) · FAISS · Google Custom Search API  
-**Approach**: Modular coding · Clean architecture · Git & GitHub versioning
+**Languages & Frameworks:**  
+JavaScript · React.js · HTML5 · CSS3 · TailwindCSS · Python · SQL  
 
----
-
-## 🌟 Projects & Contributions
-
-### 🚀 Innovative Thinking  
-I love building solutions that go beyond code — real-world, real-use. From safety wearables to smart item-swapping platforms, my focus is always on solving meaningful problems through tech.
-
-#### 🔐 Electrical Wear Underwear  
-A self-defense wearable that triggers electric shock + sends alerts in emergencies  
-`ESP32 · Firebase · Sensor Fusion · Hardware + Mobile Integration`
-
-#### 🔁 SwapX  
-A platform to swap unused items for useful ones—money-free, eco-smart  
-`Flutter · Firebase · Product Matching Logic · UX-Focused Flow`
-
-#### 🧠 AI + Vision Tools  
-Custom tools to analyze, compare, and search images with deep learning  
-`Python · OpenCV · PyTorch (ResNet50) · FAISS · Modular Structure`
-
-### 🎨 Exploring Ideas That Matter  
-Whether it’s designing safety-first circuits or experimenting with AI-based tools, I enjoy combining creativity and problem-solving. Every project helps me grow and build with purpose.
-
-### 🤝 Collaborative Energy  
-Great outcomes happen in good teams. I love contributing to tech communities, collaborating in group projects, and building alongside people who care about users and quality.
-
-### 💡 Growth-Driven Mindset  
-From backend logic to frontend polish, I embrace learning, feedback, and iteration. My approach is simple: learn deeply, build cleanly, and always solve with empathy.
-
-> 📌 Check my pinned repos for hands-on examples. Portfolio coming soon!
+**Tools & Concepts:**  
+OpenCV · PyTorch (ResNet50) · FAISS · Google Custom Search API · Firebase · Git & GitHub  
+**Approach:** Modular architecture · Problem-first design · Clean, scalable code
 
 ---
 
-## 📊 GitHub At a Glance
+## 🚀 Projects & Contributions
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lekshmi82&theme=tokyonight&hide_border=true)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lekshmi82&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lekshmi82&layout=compact&theme=tokyonight&hide_border=true)
+### 🔐 Electrical Wear Underwear  
+Self-defense wearable that delivers electric shock and sends emergency alerts  
+`ESP32 · Firebase · Sensors · Circuit Integration · Mobile Linkage`
 
----
+### 🔁 SwapX  
+A no-cash swapping platform to exchange unused items for needed ones  
+`Flutter · Firebase · Smart Matching Logic · Sustainability Focused`
 
-### 📬 Let’s Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lekshmi-priya-j-s--8684382a9/)
-&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Lekshmi82)
-&nbsp;&nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/Lekshmi82/)
-&nbsp;&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lekshmipriya8212@gmail.com)
+### 🧠 AI-Powered Image Tools  
+Custom tools using deep learning for image similarity and visual search  
+`Python · OpenCV · PyTorch · Modular Design · FAISS Indexing`
 
 ---
 
-🧠 _“Small steps, clean code, big dreams.”_ 🚀  
- #TechWithImpact
+## 💡 Philosophy & Drive
+
+- 🧩 I love solving problems that matter and making tech more human  
+- 🤝 I collaborate, I prototype, I ship  
+- 📚 I learn by building — each repo is a chapter in progress  
+- 🧠 I believe in code that works _and_ makes sense
+
+> 🔎 Explore my pinned repos — each one reflects curiosity, care, and impact.
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lekshmi82&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lekshmi82&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## 🔗 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/lekshmi-priya-j-s--8684382a9/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Lekshmi82">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:lekshmipriya8212@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/Lekshmi82/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
+
+---
+
+<p align="center"><i>"Small steps. Clean code. Real impact."</i> 🚀</p>
