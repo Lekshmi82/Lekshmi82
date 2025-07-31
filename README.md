@@ -1,4 +1,4 @@
-# Hey there 👋 I’m **LEKSHMI PRIYA J S**
+# Hey there 👋 I’m **LEKSHMI PRIYA JS**
 
 💻 Developer | Systems Thinker | Building products that feel good and function better  
 🎯 I’m passionate about using tech to **solve real problems**, not just build things.
@@ -9,7 +9,7 @@
 
 - 👩‍🎓 Final-year CS student focused on full-stack development and product-driven logic  
 - 🔄 I love turning ideas into interactive, scalable experiences  
-- 💡 From wearable tech to item-swapping platforms, I enjoy building things that matter  
+- 💡 From safety wearables to smart item-swapping platforms, I enjoy building things that matter  
 - 🌱 Currently deep-diving into backend systems, data flow, and production-grade codebases  
 - ✨ I code with users in mind and simplicity as a rule  
 
@@ -29,33 +29,28 @@
 ### 🚀 Innovative Thinking  
 I love building solutions that go beyond code — real-world, real-use. From safety wearables to smart item-swapping platforms, my focus is always on solving meaningful problems through tech.
 
+#### 🔐 Electrical Wear Underwear  
+A self-defense wearable that triggers electric shock + sends alerts in emergencies  
+`ESP32 · Firebase · Sensor Fusion · Hardware + Mobile Integration`
+
+#### 🔁 SwapX  
+A platform to swap unused items for useful ones—money-free, eco-smart  
+`Flutter · Firebase · Product Matching Logic · UX-Focused Flow`
+
+#### 🧠 AI + Vision Tools  
+Custom tools to analyze, compare, and search images with deep learning  
+`Python · OpenCV · PyTorch (ResNet50) · FAISS · Modular Structure`
+
 ### 🎨 Exploring Ideas That Matter  
-Whether it's designing a self-defense circuit or working with AI and computer vision, I’m constantly exploring ideas that balance **utility with creativity**. Every project teaches me something new — and pushes me forward.
+Whether it’s designing safety-first circuits or experimenting with AI-based tools, I enjoy combining creativity and problem-solving. Every project helps me grow and build with purpose.
 
 ### 🤝 Collaborative Energy  
-Great ideas are born in collaboration. I enjoy contributing to group projects, hackathons, and building with teams that care about user needs, good systems, and clean outcomes.
+Great outcomes happen in good teams. I love contributing to tech communities, collaborating in group projects, and building alongside people who care about users and quality.
 
 ### 💡 Growth-Driven Mindset  
-For me, development is a journey — I embrace new challenges, new stacks, and continuous iteration. From backend logic to user-facing design, I’m always learning and refining.
+From backend logic to frontend polish, I embrace learning, feedback, and iteration. My approach is simple: learn deeply, build cleanly, and always solve with empathy.
 
-> 📌 Check my pinned repos to see what I’ve been building lately.  
-> 🎯 I also create fun side tools when inspiration strikes — because passion drives quality.
-
----
-
-## 🔥 Highlight Projects
-
-### 🔐 Electrical Wear Underwear  
-> A self-defense wearable that triggers electric shock + alerts in emergencies  
-Tech: ESP32 · Firebase · Sensor Fusion · Mobile + Hardware Sync
-
-### 🔁 SwapX  
-> A platform to swap unused items for useful ones—money-free, eco-smart  
-Tech: Flutter · Firebase · Product Matching Logic · UX-Focused Flow
-
-### 🧠 AI + Vision Search Tools  
-> Custom tools to analyze, compare, and search images with deep learning  
-Tech: Python · OpenCV · FAISS · PyTorch · Modular File Structure
+> 📌 Check my pinned repos for hands-on examples. Portfolio coming soon!
 
 ---
 
@@ -80,4 +75,4 @@ Tech: Python · OpenCV · FAISS · PyTorch · Modular File Structure
 ---
 
 🧠 _“Small steps, clean code, big dreams.”_ 🚀  
- #TechWithImpact 
+ #TechWithImpact
