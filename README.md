@@ -1,60 +1,65 @@
-# Hey, I'm **LEKSHMI PRIYA J S** 👩‍💻
+# Hey there 👋 I’m **LEKSHMI PRIYA J S**
 
-Web Developer | Tech Enthusiast | Problem Solver  
-🚀 Turning ideas into scalable, user-centric products that deliver real-world value.
-
----
-
-## 👩‍💻 About Me
-
-🎓 Final Year Computer Science Engineer  
-💡 I’m passionate about building systems that **serve users, scale well, and solve real problems**  
-🧠 Focused on clean frontend development, backend logic, and smart integration of tech  
-🔍 Obsessed with optimizing workflows, enhancing experiences, and designing with intent  
-🌱 Currently learning to architect full-stack apps that are **efficient, reliable, and ready for real users**
+💻 Developer | Systems Thinker | Building products that feel good and function better  
+🎯 I’m passionate about using tech to **solve real problems**, not just build things.
 
 ---
 
-## 💼 Tech Stack
+## 🙋‍♀️ About Me
 
-**Frontend**  
-React.js · HTML5 · CSS3 · Tailwind CSS · JavaScript
-
-**Backend & Database**  
-Node.js (learning) · Firebase · SQL
-
-**Tools & Dev Practices**  
-Git · GitHub · Figma · VS Code · Modular Architecture · Clean Code
-
-**AI / Computer Vision Tools**  
-OpenCV · NumPy · PIL · PyTorch (ResNet50) · FAISS · Google Custom Search API
+- 👩‍🎓 Final-year CS student focused on full-stack development and product-driven logic  
+- 🔄 I love turning ideas into interactive, scalable experiences  
+- 💡 From wearable tech to item-swapping platforms, I enjoy building things that matter  
+- 🌱 Currently deep-diving into backend systems, data flow, and production-grade codebases  
+- ✨ I code with users in mind and simplicity as a rule  
 
 ---
 
-## 🔥 Projects That Define My Thinking
+## 🛠️ Tech I Work With
 
-### 🛡️ Electrical Wear Underwear  
-> A wearable built for real-time protection — shocks attackers and sends live alerts.  
-**Stack**: ESP32 · Sensors · Firebase · App Interface (Flutter)  
-**Highlights**: Hardware + software integration, fast alert architecture, user-first design.
-
----
-
-### 🔄 SwapX  
-> A smart swapping platform that allows users to exchange items without using money.  
-**Stack**: Flutter · Firebase · Node.js  
-**Highlights**: Inventory matching logic, value-based exchange, user-driven actions.
+**Frontend**: React.js · HTML · CSS · Tailwind · JavaScript  
+**Backend & Logic**: Node.js (learning) · SQL · Firebase  
+**AI / Tools**: Python · OpenCV · PyTorch (ResNet50) · FAISS · Google Custom Search API  
+**Approach**: Modular coding · Clean architecture · Git & GitHub versioning
 
 ---
 
-### 🔍 AI-Powered Search Tools  
-> Real-time image search apps using feature extraction + smart retrieval  
-**Stack**: Python · OpenCV · FAISS · Modular file structure  
-**Highlights**: Speed + accuracy in search, scalable components, clean architecture
+## 🌟 Projects & Contributions
+
+### 🚀 Innovative Thinking  
+I love building solutions that go beyond code — real-world, real-use. From safety wearables to smart item-swapping platforms, my focus is always on solving meaningful problems through tech.
+
+### 🎨 Exploring Ideas That Matter  
+Whether it's designing a self-defense circuit or working with AI and computer vision, I’m constantly exploring ideas that balance **utility with creativity**. Every project teaches me something new — and pushes me forward.
+
+### 🤝 Collaborative Energy  
+Great ideas are born in collaboration. I enjoy contributing to group projects, hackathons, and building with teams that care about user needs, good systems, and clean outcomes.
+
+### 💡 Growth-Driven Mindset  
+For me, development is a journey — I embrace new challenges, new stacks, and continuous iteration. From backend logic to user-facing design, I’m always learning and refining.
+
+> 📌 Check my pinned repos to see what I’ve been building lately.  
+> 🎯 I also create fun side tools when inspiration strikes — because passion drives quality.
 
 ---
 
-## 📈 GitHub Stats
+## 🔥 Highlight Projects
+
+### 🔐 Electrical Wear Underwear  
+> A self-defense wearable that triggers electric shock + alerts in emergencies  
+Tech: ESP32 · Firebase · Sensor Fusion · Mobile + Hardware Sync
+
+### 🔁 SwapX  
+> A platform to swap unused items for useful ones—money-free, eco-smart  
+Tech: Flutter · Firebase · Product Matching Logic · UX-Focused Flow
+
+### 🧠 AI + Vision Search Tools  
+> Custom tools to analyze, compare, and search images with deep learning  
+Tech: Python · OpenCV · FAISS · PyTorch · Modular File Structure
+
+---
+
+## 📊 GitHub At a Glance
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lekshmi82&theme=tokyonight&hide_border=true)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lekshmi82&show_icons=true&theme=tokyonight&hide_border=true)  
@@ -62,17 +67,17 @@ OpenCV · NumPy · PIL · PyTorch (ResNet50) · FAISS · Google Custom Search AP
 
 ---
 
-## 🌐 Let's Connect
+### 📬 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lekshmi-priya-j-s--8684382a9/)  
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/Lekshmi82/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Lekshmi82)  
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lekshmipriya8212@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lekshmi-priya-j-s--8684382a9/)
+&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Lekshmi82)
+&nbsp;&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/Lekshmi82/)
+&nbsp;&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lekshmipriya8212@gmail.com)
 
 ---
 
-## 🧠 My Approach
-
-> _"Think like a user. Build like an engineer. Scale like a product team."_  
-
-#LekshmiPriyaJS #CodeWithPurpose #SystemsThatScale #UserFocusedTech 🚀
+🧠 _“Small steps, clean code, big dreams.”_ 🚀  
+ #TechWithImpact 
