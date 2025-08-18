@@ -57,10 +57,13 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lekshmipriyaa28&show_icons=true&theme=radical&hide_border=true" height="150" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lekshmipriyaa28&layout=compact&theme=radical&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lekshmi82&theme=radical&hide_border=true" height="150" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Lekshmi82&show_icons=true&theme=radical&hide_border=true" height="150" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lekshmi82&layout=compact&theme=radical&hide_border=true" height="150" />
+</p>
 ---
 
 ## 🌐 Let’s Connect!  
