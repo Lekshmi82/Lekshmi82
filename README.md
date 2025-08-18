@@ -64,7 +64,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lekshmi82&layout=compact&theme=radical&hide_border=true" height="150" />
 </p>
----
+
 
 ## 🌐 Let’s Connect!  
 - [📩 Email](mailto:lekshmipriyaa28@gmail.com)  
