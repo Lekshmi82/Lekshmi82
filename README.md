@@ -16,6 +16,7 @@
 🛠️ Passionate about building applications for **real-world problems**  
 🌱 Currently diving deeper into **Web Backend, AI/ML, and eCommerce systems**  
 💡 Mentoring juniors — guiding ideas from spark to market, while growing together.
+
 🎥 Trying out **content creation** — mostly to step out of my comfort zone :)  
 ⚡ Open to collaborating on exciting projects that leave a positive impact.
 
