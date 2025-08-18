@@ -1,98 +1,76 @@
-<h1 align="center">Heyyy there 👋 I’m <strong>LEKSHMI PRIYA J S</strong></h1>
-
+<!-- Header -->
+<h1 align="center">Lekshmi Priya J S</h1>
 <p align="center">
-💻 Full Stack Developer | Systems Thinker | Building products that feel good and function better  
-<br/>
-🎯 I’m passionate about using tech to <strong>solve real problems</strong>, not just build things.
+<a href="https://lekshmipriya.netlify.app/" target="_blank"><b>Portfolio</b></a> · 
+<a href="https://github.com/Lekshmi82"><b>GitHub</b></a> · 
+<a href="https://www.linkedin.com/in/lekshmi-priya-j-s--8684382a9/"><b>LinkedIn</b></a>
 </p>
 
 ---
 
-## 🙋‍♀️ About Me
+<!-- About -->
+## About Me  
 
-- 👩‍🎓 Final-year CS student focused on full-stack development and product-driven logic  
-- 🔄 I love turning ideas into interactive, scalable experiences  
-- 💡 From safety wearables to smart item-swapping platforms, I enjoy building things that matter  
-- 🌱 Currently deep-diving into backend systems, data flow, and production-grade codebases  
-- ✨ I code with users in mind and simplicity as a rule  
+I design and build technology that merges **engineering precision with real-world impact**.  
+My work spans **safety-focused wearables**, **eco-smart platforms**, and **AI-driven tools**, all centered on solving problems that matter.  
 
----
-
-## 🛠️ Tech I Work With
-
-**Frontend**: React.js · HTML · CSS · Tailwind · JavaScript  
-**Backend & Logic**: Node.js · SQL · Firebase  
-**AI / Tools**: Python · OpenCV · PyTorch (ResNet50) · FAISS · Google Custom Search API  
-**Approach**: Modular coding · Clean architecture · Git & GitHub versioning
+Currently focused on:  
+- **Backend systems** and distributed architectures  
+- **Applied AI** in computer vision and search  
+- Writing **production-grade, maintainable code**  
 
 ---
 
-## 🌟 Projects & Contributions
+<!-- Skills as Logos -->
+## Technical Skills  
 
-### 🚀 Innovative Thinking  
-I love building solutions that go beyond code — real-world, real-use. From safety wearables to smart item-swapping platforms, my focus is always on solving meaningful problems through tech.
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js" />
+  <br/>
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=nodejs,firebase,mysql" />
+  <br/>
+  <!-- AI / Tools -->
+  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv" />
+  <br/>
+  <!-- Workflow -->
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
-#### 🔐 Electrical Wear Underwear  
-A self-defense wearable that triggers electric shock + sends alerts in emergencies  
+---
+
+<!-- Projects -->
+## Selected Projects  
+
+🔐 **Electrical Wear Underwear**  
+A **self-defense wearable** that delivers an electric shock + sends emergency alerts.  
 `ESP32 · Firebase · Sensor Fusion · Hardware + Mobile Integration`
 
-#### 🔁 SwapX  
-A platform to swap unused items for useful ones—money-free, eco-smart  
-`Flutter · Firebase · Product Matching Logic · UX-Focused Flow`
+🔁 **SwapX**  
+A **money-free swapping platform** enabling users to exchange items sustainably.  
+`Flutter · Firebase · Matching Logic · Carbon Footprint Tracker`
 
-#### 🧠 AI + Vision Tools  
-Custom tools to analyze, compare, and search images with deep learning  
-`Python · OpenCV · PyTorch (ResNet50) · FAISS · Modular Structure`
+🧠 **AI + Vision Tools**  
+Custom tools for **image analysis, similarity search, and web integration**.  
+`Python · OpenCV · PyTorch (ResNet50) · FAISS`
 
-### 🎨 Exploring Ideas That Matter  
-Whether it’s designing safety-first circuits or experimenting with AI-based tools, I enjoy combining creativity and problem-solving. Every project helps me grow and build with purpose.
-
-### 🤝 Collaborative Energy  
-Great outcomes happen in good teams. I love contributing to tech communities, collaborating in group projects, and building alongside people who care about users and quality.
-
-### 💡 Growth-Driven Mindset  
-From backend logic to frontend polish, I embrace learning, feedback, and iteration. My approach is simple: learn deeply, build cleanly, and always solve with empathy.
-
-> 📌 Check my pinned repos for hands-on examples. Portfolio coming soon!
+👉 More projects live on my [Portfolio](https://lekshmipriya.netlify.app/) and pinned repositories.  
 
 ---
 
-## 📊 GitHub At a Glance
+<!-- GitHub Stats -->
+## GitHub Insights  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lekshmi82&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lekshmi82&theme=tokyonight&hide_border=true" alt="Streak Stats" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Lekshmi82&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lekshmi82&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lekshmi82&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lekshmi82&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-## 📬 Let’s Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/lekshmi-priya-j-s--8684382a9/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Lekshmi82">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/Lekshmi82/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:lekshmipriya8212@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center"><em>🧠 “Small steps, clean code, big dreams.” 🚀</em></p>
-
-<p align="center">
-&nbsp; #TechWithImpact &nbsp;
-</p>
+<!-- Footer -->
+<p align="center"><em>Small steps. Clean code. Meaningful impact.</em></p>
