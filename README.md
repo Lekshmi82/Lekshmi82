@@ -1,4 +1,4 @@
-# Hellowww People !! I'm **Lekshmi Priya**  
+# Hellowww People 😎 I'm **Lekshmi Priya**  
 
 🚀 Building and exploring software while crafting **scalable solutions**  
 💻 EX-Full Stack Developer | 📜 Patent Holder | 🎨 Learning Somethingg
