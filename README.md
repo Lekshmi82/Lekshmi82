@@ -15,8 +15,7 @@
 🎓 Final-year **Computer Science Engineering** student  
 🛠️ Passionate about building applications for **real-world problems**  
 🌱 Currently diving deeper into **Web Backend, AI/ML, and e-commerce systems**  
-💡 Mentoring juniors — guiding ideas from spark to market, while **growing together**.
-
+💡 Mentoring juniors — guiding ideas from spark to market, while **growing together**
 🎥 Trying out **content creation** — mostly to step out of my comfort zone :)  
 ⚡ Open to collaborating on exciting projects that leave a positive impact.
 
@@ -28,22 +27,23 @@
 </p>
 
 ---
-🌟 What I Learn From My Projects  
+🌟 **What I Learn From My Projects**  
 
-🚀 Building with Purpose → Every project is my way of solving real problems, simplifying tasks, and making experiences better
-🌐 Curious Explorer → From safety wearables to SwapX (sustainability app), I love experimenting where tech meets impact
-🤝 Team Spirit → Working with friends, juniors, and sharing ideas makes the journey meaningful
-💡 Keep Growing → Each step teaches me to push limits, face fears, and sharpen my skills
+🚀 **Building with Purpose** → Solving real problems, simplifying tasks, and making experiences better  
+🌐 **Curious Explorer** → Experimenting where tech meets impact, from safety wearables to SwapX  
+🤝 **Team Spirit** → Collaborating with friends and juniors, sharing ideas, and making the journey meaningful  
+💡 **Keep Growing** → Pushing limits, facing fears, and sharpening my skills with every step  
 ---
 
 ## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=lekshmipriyaa28&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=lekshmipriyaa28&show_icons=true&theme=radical&hide_border=true" width="48%" />
-</p>  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lekshmipriyaa28&layout=compact&theme=radical&hide_border=true" width="40%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lekshmipriyaa28&theme=radical&hide_border=true" height="150" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=lekshmipriyaa28&show_icons=true&theme=radical&hide_border=true" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lekshmipriyaa28&layout=compact&theme=radical&hide_border=true" height="150" />
 </p>
 
 ---
