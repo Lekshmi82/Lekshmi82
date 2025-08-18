@@ -1,96 +1,84 @@
-<!-- ====== HEADER ====== -->
-<h1 align="center">Lekshmi Priya J S</h1>
+<!-- Typing Animation -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Lekshmi+Priya+👋;Computer+Science+Engineer+%F0%9F%92%BB;Building+Tech+for+Real-World+Impact+%F0%9F%9A%80" alt="Typing SVG" />
+</h1>
 
+---
+
+<!-- Quick Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?duration=2500&pause=800&center=true&vCenter=true&width=700&lines=Engineering+software+that+solves+real-world+problems;Building+systems+that+scale+for+impact;Clean+code.+Strong+logic.+Human-centered+design." alt="typing animation">
+A <b>Computer Science Engineer</b> passionate about building technology that solves 
+<b>real-world problems</b> and creates <b>impact at scale</b>.  
+Driven by curiosity ⚡, collaboration 🤝, and the belief that tech should make lives better 🌍.
 </p>
 
-<!-- ====== CONTACT (ICONS) ====== -->
+---
+
+<!-- Socials -->
 <p align="center">
-  <a href="https://lekshmipriya.netlify.app/" target="_blank" aria-label="Portfolio">
-    <img height="28" src="https://cdn.simpleicons.org/vercel/000000" alt="Portfolio"> 
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Lekshmi82" target="_blank" aria-label="GitHub">
-    <img height="28" src="https://cdn.simpleicons.org/github/181717" alt="GitHub">
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/lekshmi-priya-j-s--8684382a9/" target="_blank" aria-label="LinkedIn">
-    <img height="28" src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn">
+  <a href="https://your-portfolio-link.com">
+    <img src="https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+  <a href="https://github.com/yourgithub">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/yourlinkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
-<br/>
+---
 
-<!-- ====== SUMMARY ====== -->
+## 🚀 Tech Stack
+
+**Frontend**  
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,flutter" height="40"/>
+</p>
+
+**Backend**  
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,java" height="40"/>
+</p>
+
+**Database & Cloud**  
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,aws" height="40"/>
+</p>
+
+**Tools**  
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" height="40"/>
+</p>
+
+---
+
+## 📘 Featured Projects
+
+- 🔐 **Electrical Wear Safety Tech (Patent Pending)** — Smart wearable designed to protect women via shock defense & instant emergency alerts.  
+- 🔄 **SwapX** — Sustainable exchange platform to swap unused items, reduce waste & track carbon footprint.  
+- 🧓 **Elderly Care AI** — IoT + AI-powered system that monitors health signals, pain levels, and emotional well-being of elderly loved ones.  
+
+---
+
+## 🌟 Working Principles  
+
+- **Build for Impact** → solve real problems, not just write code.  
+- **Learn by Doing** → every project is a growth lab.  
+- **Collaborate to Scale** → teamwork turns ideas global.  
+- **Keep it Human** → empathy drives innovation.  
+
+---
+
+## ✨ Vision  
+
+💡 Engineer technology that **empowers people, protects lives, and creates a better world**.  
+👉 One step at a time 🏃, one project at a time 📘, keep learning, building, and sharing 🚀.  
+
+---
+
+<!-- GitHub Stats -->
 <p align="center">
-  A Computer Science Engineer passionate about building technology that solves <b>real-world problems</b> and creates <b>impact at scale</b>.
+  <img src="https://github-readme-stats.vercel.app/api?username=yourgithub&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithub&layout=compact&theme=tokyonight" height="160" />
 </p>
-
----
-
-## About Me
-- Final-year B.Tech (CSE) focused on **backend systems**, **full-stack development**, and **applied AI**  
-- I like turning ideas into **working, maintainable products** with clean architecture and measurable outcomes  
-- Comfortable working in small teams; most of my projects are **collaborative builds** aimed at real use
-
----
-
-## Tech Stack (at a glance)
-
-<!-- Frontend -->
-**Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
-</p>
-
-<!-- Backend -->
-**Backend**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python" />
-</p>
-
-<!-- Data / Infra / Tools -->
-**Data • Infra • Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,firebase,git,github,vscode,postman" />
-</p>
-
----
-
-## Selected Projects
-
-### Electrical Wear Underwear (Team Project)
-Self-defense wearable that delivers a controlled shock to deter an attacker and triggers emergency alerts.
-<br/>
-<sub>ESP32 • Sensor Fusion • Firebase • Hardware + Mobile Integration</sub>
-
-### SwapX (Team Project)
-Money-free exchange platform encouraging reuse (initial focus on **books**) with simple matching logic and usage tracking.
-<br/>
-<sub>Flutter (UI) • Firebase • Matching Logic • UX-first flows</sub>
-
-### AI-Powered Image Search
-Semantic image search combining feature extraction and vector similarity for fast, relevant retrieval.
-<br/>
-<sub>Python • OpenCV • PyTorch (ResNet50) • FAISS • Modular pipeline</sub>
-
-> More details and demos are on my <a href="https://lekshmipriya.netlify.app/" target="_blank">Portfolio</a> and pinned repositories.
-
----
-
-## GitHub Snapshot
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lekshmi82&show_icons=true&hide_border=true" height="160" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lekshmi82&layout=compact&hide_border=true" height="160" alt="Top languages"/>
-</p>
-
----
-
-## Working Principles
-- Design for **clarity** → readable code, clear data flow, meaningful abstractions  
-- Build for **reliability** → tests where it matters, fail-safes, measurable behavior  
-- Ship for **impact** → solve the user’s actual problem, keep it simple, iterate fast
-
----
-
-<p align="center"><i>“Stay Hungry. Stay Foolish.” — Steve Jobs</i></p>
