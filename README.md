@@ -1,76 +1,67 @@
-<!-- Header -->
-<h1 align="center">Lekshmi Priya J S</h1>
+<h1 align="center">Hi, I’m <span style="color:#4E9F3D;">Lekshmi Priya</span> 👩‍💻</h1>
+
 <p align="center">
-<a href="https://lekshmipriya.netlify.app/" target="_blank"><b>Portfolio</b></a> · 
-<a href="https://github.com/Lekshmi82"><b>GitHub</b></a> · 
-<a href="https://www.linkedin.com/in/lekshmi-priya-j-s--8684382a9/"><b>LinkedIn</b></a>
+  <a href="https://lekshmipriya.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+  <a href="https://github.com/lekshmipriya-js" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/lekshmipriya-js" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-<!-- About -->
-## About Me  
+### 👩‍💻 About Me  
+I’m **Lekshmi Priya**, a **final-year Computer Science student** passionate about solving real-world problems through technology.  
+Currently building **impactful products** at the intersection of **safety, sustainability, and human-centered design**.  
 
-I design and build technology that merges **engineering precision with real-world impact**.  
-My work spans **safety-focused wearables**, **eco-smart platforms**, and **AI-driven tools**, all centered on solving problems that matter.  
-
-Currently focused on:  
-- **Backend systems** and distributed architectures  
-- **Applied AI** in computer vision and search  
-- Writing **production-grade, maintainable code**  
+- 🌍 Exploring full-stack & backend engineering with **Node.js, Python, SQL**  
+- 🛠️ Founder of projects like **SwapX (sustainability exchange app)** & **Electrical Wear Safety Tech (patented idea)**  
+- 🚀 Preparing for global opportunities (FAANG & Mercari Japan)  
+- 📖 Believer in *learning by doing* → hackathons, open-source, and startup building  
 
 ---
 
-<!-- Skills as Logos -->
-## Technical Skills  
+### 🧰 Tech Stack  
 
-<p align="center">
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js" />
-  <br/>
-  <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,firebase,mysql" />
-  <br/>
-  <!-- AI / Tools -->
-  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv" />
-  <br/>
-  <!-- Workflow -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+#### **Frontend**  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,flutter" />
+</p>
+
+#### **Backend & Databases**  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,python,express,mysql,postgres,mongodb" />
+</p>
+
+#### **Tools & Platforms**  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,figma,postman,linux" />
 </p>
 
 ---
 
-<!-- Projects -->
-## Selected Projects  
-
-🔐 **Electrical Wear Underwear**  
-A **self-defense wearable** that delivers an electric shock + sends emergency alerts.  
-`ESP32 · Firebase · Sensor Fusion · Hardware + Mobile Integration`
-
-🔁 **SwapX**  
-A **money-free swapping platform** enabling users to exchange items sustainably.  
-`Flutter · Firebase · Matching Logic · Carbon Footprint Tracker`
-
-🧠 **AI + Vision Tools**  
-Custom tools for **image analysis, similarity search, and web integration**.  
-`Python · OpenCV · PyTorch (ResNet50) · FAISS`
-
-👉 More projects live on my [Portfolio](https://lekshmipriya.netlify.app/) and pinned repositories.  
-
----
-
-<!-- GitHub Stats -->
-## GitHub Insights  
-
+### 📊 GitHub at a Glance  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lekshmi82&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Lekshmi82&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lekshmi82&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lekshmipriya-js&theme=transparent&hide_border=true" alt="GitHub Streak"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lekshmipriya-js&show_icons=true&theme=transparent&hide_border=true" alt="Stats"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lekshmipriya-js&layout=compact&theme=transparent&hide_border=true" alt="Languages"/>
 </p>
 
 ---
 
-<!-- Footer -->
-<p align="center"><em>Small steps. Clean code. Meaningful impact.</em></p>
+### 🎯 Vision  
+I aim to **engineer tech that scales globally** while staying **human-focused**.  
+From **safety innovations** to **sustainable platforms**, my journey is about **building products that matter**.  
+
+---
+
+### ✨ Closing Note  
+📌 *“One project at a time. One step closer to impact. Always learning, always building.”*
