@@ -23,27 +23,41 @@
 ---
 
 ## 🔧 My Toolbox  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,python,java,git,github,vscode,figma&perline=7" />
+
+**Frontend**  
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" height="40" />
+</p>
+
+**Backend**  
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,java" height="40" />
+</p>
+
+**Database & Cloud**  
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase,aws" height="40" />
+</p>
+
+**Tools & Others**  
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" height="40" />
 </p>
 
 ---
-🌟 **What I Learn From My Projects**  
 
-🚀 **Building with Purpose** → Solving real problems, simplifying tasks, and making experiences better  
-🌐 **Curious Explorer** → Experimenting where tech meets impact, from safety wearables to SwapX  
-🤝 **Team Spirit** → Collaborating with friends and juniors, sharing ideas, and making the journey meaningful  
-💡 **Keep Growing** → Pushing limits, facing fears, and sharpening my skills with every step  
+## 🌟 What I Learn From My Work  
+
+- 🚀 **Building with Purpose** → Solve real problems & simplify tasks and making experiences better
+- 🌐 **Curious Explorer** → Experimenting where tech meets impact, from safety wearables to SwapX 
+- 🤝 **Team Spirit** → Collaborating with friends and juniors, sharing ideas, and making the journey meaningful
+- 💡 **Keep Growing** → Push limits, face fears, and sharpening my skills with every step
 ---
 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lekshmipriyaa28&theme=radical&hide_border=true" height="150" /> 
-  <img src="https://github-readme-stats.vercel.app/api?username=lekshmipriyaa28&show_icons=true&theme=radical&hide_border=true" height="150" />
-</p>
-
-<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lekshmipriyaa28&show_icons=true&theme=radical&hide_border=true" height="150" /> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lekshmipriyaa28&layout=compact&theme=radical&hide_border=true" height="150" />
 </p>
 
