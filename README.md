@@ -1,7 +1,7 @@
 # Hellowww People 😎 I'm **Lekshmi Priya**  
 
 🚀 Building and exploring software while crafting **scalable solutions**  
-💻 EX-Full Stack Developer | 📜 Patent Holder | 🎨 Learning Somethingg
+💻 EX-Full Stack Developer Intern | 📜 Patent Holder | 🎨 Learning Somethingg
 
 🔗 **My Portfolio**  
 🌐 [Visit My Portfolio](https://lekshmipriya.netlify.app/)  
@@ -23,25 +23,9 @@
 ---
 
 ## 🔧 My Toolbox  
-
-**Frontend**  
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" height="40" />
-</p>
-
-**Backend**  
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,java" height="40" />
-</p>
-
-**Database & Cloud**  
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase,aws" height="40" />
-</p>
-
-**Tools & Others**  
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" height="40" />
+  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,express,python,postgresql,firebase,supabase" height="40" />
 </p>
 
 ---
